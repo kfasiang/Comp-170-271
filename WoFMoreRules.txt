@@ -1,0 +1,15 @@
+MORE RULES:
+When you spin the wheel, you can land on any amount of money from $500 to $2500--
+But be advised: you may also land on bankrupt and lose everything.
+Also, if you spin the wheel and guess a consonant that is not in the puzzle
+You will lose the value of the spin.
+However, with this risk comes great reward! If the consonant you guess is in the puzzle,
+Your spin earning will be multiplied by the number of times the consonant appears!
+
+When you buy a vowel, exactly $250 is deducted from your bank
+Regardless of how many times that vowel appears.
+You will also be told when there are no vowels left.
+
+When solving the puzzle, be careful to match all spelling and spacing correctly!
+
+Type "go" to start the game!
